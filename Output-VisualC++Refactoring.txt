@@ -1,0 +1,6 @@
+﻿
+Renamed 'intersect' to 'intersectSphere':
+-----------------------------------------
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(88, 6)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(101, 7)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(113, 8)

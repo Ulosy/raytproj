@@ -1,0 +1,54 @@
+﻿
+Renamed 'intersect' to 'intersectSphere':
+-----------------------------------------
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(88, 6)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(101, 7)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(113, 8)
+
+Renamed 'ray' to 'Ray':
+-----------------------
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\Ray.h(6, 7)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\Ray.h(11, 2)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\Ray.h(12, 2)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(88, 22)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(96, 29)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(123, 3)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(123, 19)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(178, 30)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(205, 22)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(236, 24)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(300, 1)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(325, 2)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(325, 10)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(344, 3)
+
+Renamed 'myray' to 'ray':
+-------------------------
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(103, 8)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(357, 7)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(360, 34)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(363, 30)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(363, 43)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(363, 56)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(364, 29)
+
+Renamed 'myray' to 'ray':
+-------------------------
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(177, 34)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(189, 23)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(192, 27)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(193, 28)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(199, 25)
+
+Renamed 'illumination' to 'illuminationSphere':
+-----------------------------------------------
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(96, 6)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(193, 12)
+
+Renamed 'i' to 't_index':
+-------------------------
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(307, 11)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(307, 18)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(307, 37)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(308, 28)
+C:\Users\lozy9\Downloads\assign3_starterCode_windowsVS2017\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(313, 48)
